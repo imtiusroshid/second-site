@@ -1,0 +1,22 @@
+.nav_btn{
+    color: #E8C79E;
+    border: 1px solid #E8C79E;
+}
+.navbar-brand{
+    width: 14%;
+}
+.banner{
+    background-image: url(../img/home-banner@2x-scaled.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.nav-link.active{
+    color: #E8C79E !important;
+}
+.car-details{
+    background-color: #13151E;
+}
+.car-details .card{
+    background-color: transparent;
+}
